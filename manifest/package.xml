@@ -44,5 +44,19 @@
         <members>Reviews</members>
         <name>CustomLabel</name>
     </types>
+    <types>
+        <members>Friend_Ships</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Friend_Ships</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Boat_Record_Page</members>
+        <members>Friend_Ships</members>
+        <members>Friend_Ships_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
     <version>52.0</version>
 </Package>
